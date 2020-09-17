@@ -1,0 +1,97 @@
+[I 16:22:40.487 NotebookApp] 端口 8888 已经被站用, 请尝试其他端口.
+[I 16:22:40.512 NotebookApp] JupyterLab extension loaded from /home/work/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:22:40.512 NotebookApp] JupyterLab application directory is /home/work/anaconda3/share/jupyter/lab
+[I 16:22:40.578 NotebookApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 16:22:40.580 NotebookApp] 启动notebooks 在本地路径: /home/work/xuyang/mine/eat_tensorflow2_in_30_days/mycode
+[I 16:22:40.580 NotebookApp] 本程序运行在: http://192.168.88.153:8889/?token=70ecb26033cd6b1125eb6d86ac63946df38cebe1e9d4e624
+[I 16:22:40.580 NotebookApp]  or http://127.0.0.1:8889/?token=70ecb26033cd6b1125eb6d86ac63946df38cebe1e9d4e624
+[I 16:22:40.580 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[C 16:22:40.583 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-31302-open.html
+    Or copy and paste one of these URLs:
+        http://192.168.88.153:8889/?token=70ecb26033cd6b1125eb6d86ac63946df38cebe1e9d4e624
+     or http://127.0.0.1:8889/?token=70ecb26033cd6b1125eb6d86ac63946df38cebe1e9d4e624
+[W 16:22:46.553 NotebookApp] Clearing invalid/expired login cookie username-192-168-88-153-8889
+[W 16:22:46.554 NotebookApp] Clearing invalid/expired login cookie username-192-168-88-153-8889
+[I 16:22:46.554 NotebookApp] 302 GET /tree/eat_tensorflow2_in_30_days/mycode (192.168.0.3) 1.71ms
+[W 16:22:50.975 NotebookApp] 401 POST /login?next=%2Ftree%2Feat_tensorflow2_in_30_days%2Fmycode (192.168.0.3) 1.68ms referer=http://192.168.88.153:8889/login?next=%2Ftree%2Feat_tensorflow2_in_30_days%2Fmycode
+[W 16:22:54.794 NotebookApp] 401 POST /login?next=%2Ftree%2Feat_tensorflow2_in_30_days%2Fmycode (192.168.0.3) 1.69ms referer=http://192.168.88.153:8889/login?next=%2Ftree%2Feat_tensorflow2_in_30_days%2Fmycode
+[W 16:22:58.142 NotebookApp] Couldn't authenticate WebSocket connection
+[W 16:22:58.148 NotebookApp] 403 GET /api/kernels/5b3f23a4-acb1-419d-8834-48351fab1c8b/channels?session_id=8f61bae1b4fa4c9f94441bccc78552e1 (192.168.0.3) 6.59ms referer=None
+[W 16:23:01.534 NotebookApp] Forbidden
+[W 16:23:01.534 NotebookApp] 403 GET /api/sessions?_=1599635390200 (192.168.0.3) 0.94ms referer=http://192.168.88.153:8889/tree/eat_tensorflow2_in_30_days
+[W 16:23:01.535 NotebookApp] Forbidden
+[W 16:23:01.535 NotebookApp] 403 GET /api/terminals?_=1599635390201 (192.168.0.3) 0.59ms referer=http://192.168.88.153:8889/tree/eat_tensorflow2_in_30_days
+[I 16:23:09.394 NotebookApp] 302 GET /tree? (192.168.0.3) 0.61ms
+[W 16:23:15.553 NotebookApp] 401 POST /login?next=%2Ftree%3F (192.168.0.3) 1.71ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F
+[W 16:23:24.679 NotebookApp] 401 POST /login?next=%2Ftree%3F (192.168.0.3) 1.67ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F
+[W 16:23:27.622 NotebookApp] 401 POST /login?next=%2Ftree%3F (192.168.0.3) 1.69ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F
+[I 16:24:33.264 NotebookApp] 302 GET /tree? (192.168.0.3) 0.59ms
+[W 16:24:43.681 NotebookApp] 401 POST /login?next=%2Ftree%3F (192.168.0.3) 1.65ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F
+[I 16:25:54.656 NotebookApp] 端口 8888 已经被站用, 请尝试其他端口.
+[I 16:25:54.656 NotebookApp] 端口 8889 已经被站用, 请尝试其他端口.
+[I 16:25:54.682 NotebookApp] JupyterLab extension loaded from /home/work/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:25:54.682 NotebookApp] JupyterLab application directory is /home/work/anaconda3/share/jupyter/lab
+[I 16:25:54.748 NotebookApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 16:25:54.749 NotebookApp] 启动notebooks 在本地路径: /home/work/xuyang/mine/eat_tensorflow2_in_30_days/mycode
+[I 16:25:54.749 NotebookApp] 本程序运行在: http://192.168.88.153:8890/?token=7d5f67aa55aae91790eca02bef31648c1b08ebf023fa0ae5
+[I 16:25:54.749 NotebookApp]  or http://127.0.0.1:8890/?token=7d5f67aa55aae91790eca02bef31648c1b08ebf023fa0ae5
+[I 16:25:54.749 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[C 16:25:54.752 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-5325-open.html
+    Or copy and paste one of these URLs:
+        http://192.168.88.153:8890/?token=7d5f67aa55aae91790eca02bef31648c1b08ebf023fa0ae5
+     or http://127.0.0.1:8890/?token=7d5f67aa55aae91790eca02bef31648c1b08ebf023fa0ae5
+[I 16:26:07.971 NotebookApp] 302 GET /tree? (192.168.0.3) 0.61ms
+[W 16:26:11.213 NotebookApp] 401 POST /login?next=%2Ftree%3F (192.168.0.3) 1.69ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F
+[I 16:27:14.568 NotebookApp] 端口 8888 已经被站用, 请尝试其他端口.
+[I 16:27:14.593 NotebookApp] JupyterLab extension loaded from /home/work/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:27:14.593 NotebookApp] JupyterLab application directory is /home/work/anaconda3/share/jupyter/lab
+[I 16:27:14.658 NotebookApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 16:27:14.660 NotebookApp] 启动notebooks 在本地路径: /home/work/xuyang/mine/eat_tensorflow2_in_30_days/mycode
+[I 16:27:14.660 NotebookApp] 本程序运行在: http://192.168.88.153:8889/?token=ad5a58c88ffb0f0e28d62b1f0c70015bfc32cf504dcd686f
+[I 16:27:14.660 NotebookApp]  or http://127.0.0.1:8889/?token=ad5a58c88ffb0f0e28d62b1f0c70015bfc32cf504dcd686f
+[I 16:27:14.660 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[C 16:27:14.663 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-8343-open.html
+    Or copy and paste one of these URLs:
+        http://192.168.88.153:8889/?token=ad5a58c88ffb0f0e28d62b1f0c70015bfc32cf504dcd686f
+     or http://127.0.0.1:8889/?token=ad5a58c88ffb0f0e28d62b1f0c70015bfc32cf504dcd686f
+[W 16:27:19.916 NotebookApp] 401 POST /login?next=%2Ftree%3F (192.168.0.3) 23.99ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F
+[I 16:27:25.988 NotebookApp] 302 GET /tree? (192.168.0.3) 0.66ms
+[E 16:28:16.589 NotebookApp] Uncaught exception POST /login?next=%2Ftree%3F (192.168.0.3)
+    HTTPServerRequest(protocol='http', host='192.168.88.153:8889', method='POST', uri='/login?next=%2Ftree%3F', version='HTTP/1.1', remote_ip='192.168.0.3')
+    Traceback (most recent call last):
+      File "/home/work/anaconda3/lib/python3.7/site-packages/tornado/web.py", line 1697, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/work/anaconda3/lib/python3.7/site-packages/notebook/auth/login.py", line 93, in post
+        set_password(new_password, config_file=config_file)
+      File "/home/work/anaconda3/lib/python3.7/site-packages/notebook/auth/security.py", line 148, in set_password
+        config.NotebookApp.password = hashed_password
+      File "/home/work/anaconda3/lib/python3.7/contextlib.py", line 119, in __exit__
+        next(self.gen)
+      File "/home/work/anaconda3/lib/python3.7/site-packages/notebook/auth/security.py", line 131, in persist_config
+        with io.open(config_file, 'w', encoding='utf8') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/root/.jupyter/jupyter_notebook_config.json'
+[E 16:28:16.594 NotebookApp] {
+      "Host": "192.168.88.153:8889",
+      "Connection": "keep-alive",
+      "Content-Length": "144",
+      "Cache-Control": "max-age=0",
+      "Upgrade-Insecure-Requests": "1",
+      "Origin": "http://192.168.88.153:8889",
+      "Content-Type": "application/x-www-form-urlencoded",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "Referer": "http://192.168.88.153:8889/login?next=%2Ftree%3F",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "_xsrf=2|81ed22a2|3e646c948d59a67d72802ed8a2da93f0|1599634164"
+    }
+[E 16:28:16.595 NotebookApp] 500 POST /login?next=%2Ftree%3F (192.168.0.3) 6.97ms referer=http://192.168.88.153:8889/login?next=%2Ftree%3F

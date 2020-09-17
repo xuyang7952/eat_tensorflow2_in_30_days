@@ -1,0 +1,43 @@
+[I 15:24:36.562 NotebookApp] 端口 8888 已经被站用, 请尝试其他端口.
+[I 15:24:36.589 NotebookApp] JupyterLab extension loaded from /home/work/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 15:24:36.589 NotebookApp] JupyterLab application directory is /home/work/anaconda3/share/jupyter/lab
+[I 15:24:36.654 NotebookApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 15:24:36.655 NotebookApp] 启动notebooks 在本地路径: /home/work/xuyang/mine/eat_tensorflow2_in_30_days/mycode/data
+[I 15:24:36.655 NotebookApp] 本程序运行在: http://192.168.88.153:8889/?token=4db42f557f6cc905a36b3f4e062674e5d7d2e1265c5d0f38
+[I 15:24:36.655 NotebookApp]  or http://127.0.0.1:8889/?token=4db42f557f6cc905a36b3f4e062674e5d7d2e1265c5d0f38
+[I 15:24:36.655 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[C 15:24:36.658 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-11987-open.html
+    Or copy and paste one of these URLs:
+        http://192.168.88.153:8889/?token=4db42f557f6cc905a36b3f4e062674e5d7d2e1265c5d0f38
+     or http://127.0.0.1:8889/?token=4db42f557f6cc905a36b3f4e062674e5d7d2e1265c5d0f38
+[W 15:24:41.339 NotebookApp] 404 GET /notebooks/xuyang/mine/eat_tensorflow2_in_30_days/6-7%2C%E4%BD%BF%E7%94%A8spark-scala%E8%B0%83%E7%94%A8tensorflow%E6%A8%A1%E5%9E%8B.md (192.168.0.3): No such file or directory: xuyang/mine/eat_tensorflow2_in_30_days/6-7,使用spark-scala调用tensorflow模型.md
+[W 15:24:41.359 NotebookApp] 404 GET /notebooks/xuyang/mine/eat_tensorflow2_in_30_days/6-7%2C%E4%BD%BF%E7%94%A8spark-scala%E8%B0%83%E7%94%A8tensorflow%E6%A8%A1%E5%9E%8B.md (192.168.0.3) 21.62ms referer=http://192.168.88.153:8889/tree/xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:24:43.298 NotebookApp] 404 GET /notebooks/xuyang/mine/eat_tensorflow2_in_30_days/6-7%2C%E4%BD%BF%E7%94%A8spark-scala%E8%B0%83%E7%94%A8tensorflow%E6%A8%A1%E5%9E%8B.md (192.168.0.3): No such file or directory: xuyang/mine/eat_tensorflow2_in_30_days/6-7,使用spark-scala调用tensorflow模型.md
+[W 15:24:43.300 NotebookApp] 404 GET /notebooks/xuyang/mine/eat_tensorflow2_in_30_days/6-7%2C%E4%BD%BF%E7%94%A8spark-scala%E8%B0%83%E7%94%A8tensorflow%E6%A8%A1%E5%9E%8B.md (192.168.0.3) 1.96ms referer=http://192.168.88.153:8889/tree/xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:24:47.504 NotebookApp] 404 GET /api/contents/xuyang/mine/eat_tensorflow2_in_30_days?type=directory&_=1600080990713 (192.168.0.3): No such file or directory: xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:24:47.504 NotebookApp] No such file or directory: xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:24:47.504 NotebookApp] 404 GET /api/contents/xuyang/mine/eat_tensorflow2_in_30_days?type=directory&_=1600080990713 (192.168.0.3) 0.95ms referer=http://192.168.88.153:8889/tree/xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:24:50.384 NotebookApp] 404 GET /api/kernels/fdba2eb9-c30b-41a6-97dd-06e57915e4e0/channels?session_id=dab6395481ef4347b31e16897153bf74 (192.168.0.3): Kernel does not exist: fdba2eb9-c30b-41a6-97dd-06e57915e4e0
+[W 15:24:50.385 NotebookApp] 404 GET /api/kernels/fdba2eb9-c30b-41a6-97dd-06e57915e4e0/channels?session_id=dab6395481ef4347b31e16897153bf74 (192.168.0.3) 6.58ms referer=None
+[W 15:24:50.387 NotebookApp] 404 GET /api/kernels/0ba06172-f1bc-4dac-8e87-37c06c67e48f/channels?session_id=31bca231833348898bb479f309409d68 (192.168.0.3): Kernel does not exist: 0ba06172-f1bc-4dac-8e87-37c06c67e48f
+[W 15:24:50.388 NotebookApp] 404 GET /api/kernels/0ba06172-f1bc-4dac-8e87-37c06c67e48f/channels?session_id=31bca231833348898bb479f309409d68 (192.168.0.3) 2.17ms referer=None
+[W 15:24:52.439 NotebookApp] 404 GET /api/kernels/1709d69f-b05c-49c6-ac3c-b436ffc7bd80/channels?session_id=3bbd66c0cd9548fdb8838160b238083b (192.168.0.3): Kernel does not exist: 1709d69f-b05c-49c6-ac3c-b436ffc7bd80
+[W 15:24:52.441 NotebookApp] 404 GET /api/kernels/1709d69f-b05c-49c6-ac3c-b436ffc7bd80/channels?session_id=3bbd66c0cd9548fdb8838160b238083b (192.168.0.3) 2.75ms referer=None
+[W 15:24:52.452 NotebookApp] 404 GET /api/kernels/9fbf61b1-fc03-43fa-adf8-d137c08f930d/channels?session_id=d90a3cd885b84fe7b6479562bd045030 (192.168.0.3): Kernel does not exist: 9fbf61b1-fc03-43fa-adf8-d137c08f930d
+[W 15:24:52.453 NotebookApp] 404 GET /api/kernels/9fbf61b1-fc03-43fa-adf8-d137c08f930d/channels?session_id=d90a3cd885b84fe7b6479562bd045030 (192.168.0.3) 2.26ms referer=None
+[W 15:24:52.627 NotebookApp] 404 GET /api/kernels/fd42d4be-05f4-4bbb-8254-f84e6a068649/channels?session_id=4ff17f8db9414199a5eef0d7262b3587 (192.168.0.3): Kernel does not exist: fd42d4be-05f4-4bbb-8254-f84e6a068649
+[W 15:24:52.628 NotebookApp] 404 GET /api/kernels/fd42d4be-05f4-4bbb-8254-f84e6a068649/channels?session_id=4ff17f8db9414199a5eef0d7262b3587 (192.168.0.3) 2.76ms referer=None
+[W 15:24:53.098 NotebookApp] 404 GET /api/kernels/62920591-077c-4723-86ba-e65f2783a90e/channels?session_id=6aad6ee4dc8a435c82aedad75ddcd877 (192.168.0.3): Kernel does not exist: 62920591-077c-4723-86ba-e65f2783a90e
+[W 15:24:53.099 NotebookApp] 404 GET /api/kernels/62920591-077c-4723-86ba-e65f2783a90e/channels?session_id=6aad6ee4dc8a435c82aedad75ddcd877 (192.168.0.3) 2.76ms referer=None
+[W 15:25:03.525 NotebookApp] 404 GET /api/contents/xuyang/mine/eat_tensorflow2_in_30_days?type=directory&_=1600080990716 (192.168.0.3): No such file or directory: xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:25:03.525 NotebookApp] No such file or directory: xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:25:03.525 NotebookApp] 404 GET /api/contents/xuyang/mine/eat_tensorflow2_in_30_days?type=directory&_=1600080990716 (192.168.0.3) 0.89ms referer=http://192.168.88.153:8889/tree/xuyang/mine/eat_tensorflow2_in_30_days
+[W 15:25:23.048 NotebookApp] Replacing stale connection: 0ba06172-f1bc-4dac-8e87-37c06c67e48f:31bca231833348898bb479f309409d68
+[W 15:25:23.049 NotebookApp] Replacing stale connection: fdba2eb9-c30b-41a6-97dd-06e57915e4e0:dab6395481ef4347b31e16897153bf74
+[W 15:25:25.058 NotebookApp] Replacing stale connection: 1709d69f-b05c-49c6-ac3c-b436ffc7bd80:3bbd66c0cd9548fdb8838160b238083b
+[W 15:25:25.062 NotebookApp] Replacing stale connection: 9fbf61b1-fc03-43fa-adf8-d137c08f930d:d90a3cd885b84fe7b6479562bd045030
+[W 15:25:25.062 NotebookApp] Replacing stale connection: fd42d4be-05f4-4bbb-8254-f84e6a068649:4ff17f8db9414199a5eef0d7262b3587
+[W 15:25:26.087 NotebookApp] Replacing stale connection: 62920591-077c-4723-86ba-e65f2783a90e:6aad6ee4dc8a435c82aedad75ddcd877
